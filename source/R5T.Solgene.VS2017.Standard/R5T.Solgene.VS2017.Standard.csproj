@@ -4,4 +4,7 @@
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <NoWarn>1701;1702;1591;1573</NoWarn>
   </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\R5T.Solgene.VS2017\source\R5T.Solgene.VS2017\R5T.Solgene.VS2017.csproj" />
+  </ItemGroup>
 </Project>
