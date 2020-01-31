@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Solgene.VS2017.Standard.Construction", "R5T.Solgene.VS2017.Standard.Construction\R5T.Solgene.VS2017.Standard.Construction.csproj", "{D9CE768A-3EA0-46CB-8B9A-7392AC36E43F}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Solgene.VS2017.Standard", "R5T.Solgene.VS2017.Standard\R5T.Solgene.VS2017.Standard.csproj", "{BCCEC649-CFDC-44B5-A340-2552268A1831}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Solgene.VS2017.Standard.Testing", "R5T.Solgene.VS2017.Standard.Testing\R5T.Solgene.VS2017.Standard.Testing.csproj", "{F95D6C96-B736-4E91-B8DC-01FD3C30AFE5}"
@@ -31,18 +29,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D9CE768A-3EA0-46CB-8B9A-7392AC36E43F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D9CE768A-3EA0-46CB-8B9A-7392AC36E43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D9CE768A-3EA0-46CB-8B9A-7392AC36E43F}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{D9CE768A-3EA0-46CB-8B9A-7392AC36E43F}.Debug|x64.Build.0 = Debug|Any CPU
-		{D9CE768A-3EA0-46CB-8B9A-7392AC36E43F}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{D9CE768A-3EA0-46CB-8B9A-7392AC36E43F}.Debug|x86.Build.0 = Debug|Any CPU
-		{D9CE768A-3EA0-46CB-8B9A-7392AC36E43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D9CE768A-3EA0-46CB-8B9A-7392AC36E43F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D9CE768A-3EA0-46CB-8B9A-7392AC36E43F}.Release|x64.ActiveCfg = Release|Any CPU
-		{D9CE768A-3EA0-46CB-8B9A-7392AC36E43F}.Release|x64.Build.0 = Release|Any CPU
-		{D9CE768A-3EA0-46CB-8B9A-7392AC36E43F}.Release|x86.ActiveCfg = Release|Any CPU
-		{D9CE768A-3EA0-46CB-8B9A-7392AC36E43F}.Release|x86.Build.0 = Release|Any CPU
 		{BCCEC649-CFDC-44B5-A340-2552268A1831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BCCEC649-CFDC-44B5-A340-2552268A1831}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCCEC649-CFDC-44B5-A340-2552268A1831}.Debug|x64.ActiveCfg = Debug|Any CPU
