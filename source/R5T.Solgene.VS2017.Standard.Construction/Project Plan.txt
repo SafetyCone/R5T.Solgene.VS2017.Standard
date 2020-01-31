@@ -1,0 +1,4 @@
+R5T.Solgene.VS2017.Standard.Construction - A construction console-app for the library R5T.Solgene.VS2017.Standard.
+
+Goals
+
