@@ -14,7 +14,8 @@ namespace R5T.Solgene.VS2017.Standard
         /// </summary>
         public static IServiceCollection AddVisualStudioSolutionFileGenerator(this IServiceCollection services)
         {
-            services.AddVS2017VisualStudioSolutionFileGenerator();
+            services.AddVisualStudioSolutionFileGenerator(
+                services.AddVisualStudio2017SolutionFileGeneratorAction());
 
             return services;
         }
