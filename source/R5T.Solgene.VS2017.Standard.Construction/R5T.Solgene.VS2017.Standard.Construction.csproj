@@ -1,5 +1,4 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <ItemGroup>
     <ProjectReference Include="..\..\..\R5T.Bedford.Bath.Standard\source\R5T.Bedford.Bath.Standard\R5T.Bedford.Bath.Standard.csproj" />
     <ProjectReference Include="..\..\..\R5T.Chalandri.DropboxRivetTestingData\source\R5T.Chalandri.DropboxRivetTestingData\R5T.Chalandri.DropboxRivetTestingData.csproj" />
@@ -8,10 +7,10 @@
     <ProjectReference Include="..\..\..\R5T.Solutas.Standard\source\R5T.Solutas.Standard\R5T.Solutas.Standard.csproj" />
     <ProjectReference Include="..\R5T.Solgene.VS2017.Standard\R5T.Solgene.VS2017.Standard.csproj" />
   </ItemGroup>
-
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.2</TargetFramework>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>1591;1573</NoWarn>
   </PropertyGroup>
-
 </Project>
